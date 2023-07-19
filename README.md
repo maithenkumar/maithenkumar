@@ -3,7 +3,7 @@
 
   * I'm Maithekumar S
   * flutter and nodejs lover
-  * Now Working as a App Developer
+  * Now Doing freelancer as a App Developer and Web Developer
   * 20 Years Young Programmer
   * Well Basement on App Developing & Designing
 
