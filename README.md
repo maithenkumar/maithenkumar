@@ -1,11 +1,21 @@
 ## Hi there,<a href="https://maithenkumar.vercel.app/" >MAITHENKUMAR</a> 
 ### Who Am  I?
 
-  * I'm Maithekumar S
-  * flutter and nodejs lover
-  * Now Doing freelancer as a App Developer and Web Developer
-  * 20 Years Young Programmer
-  * Well Basement on App Developing & Designing
+I am an SAP Technical Consultant with 2 years of experience specializing in SAP ABAP, CDS Views, and SAP Cloud Platform Integration (CPI). I focus on delivering scalable, high-performance technical solutions across SAP S/4HANA landscapes with strong problem-solving and engineering excellence.
+
+ABAP & S/4HANA
+
+Experienced in building ALV Reports, OData Services, BAPIs, BADIs, Enhancements, RFCs, Function Modules, and SPROXY/SOAMANAGER configurations. Developed 100+ CDS Views, including analytical, composite, union-based, and hierarchy-enabled models optimized for SAC reporting. Skilled in debugging, performance tuning, and designing clean, modular, and maintainable ABAP solutions.
+
+SAP CPI & Integrations
+
+Strong expertise in designing end-to-end iFlows using SOAP, HTTP, OData, Mail, SFTP, and SF OData adapters. Hands-on experience in Groovy scripting, JSON/XML transformations, content routing, exception handling, and integrating S/4HANA with SuccessFactors and third-party systems. Built secure, reusable, and scalable integration architectures for real-time and batch processes.
+
+Full-Stack Development
+
+Alongside SAP, I bring full-stack development experience in Java, Spring Boot, Node.js, React, Flutter, Docker, Kubernetes, and AWS. I’ve built scalable backend systems, microservices, and cross-platform applications, enabling me to bridge SAP systems with modern cloud-native development.
+
+I’m passionate about building high-quality solutions, learning continuously, and contributing to impactful enterprise and cloud applications.
 
 
 ```text
